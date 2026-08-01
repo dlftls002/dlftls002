@@ -79,6 +79,7 @@
 | [MATS](https://github.com/dlftls002/MATS)| Real-Time Drone Detection and Identity-Disguise Anti-Drone System |`SystemVerilog` `OV7670` `VGA` `HSV detect` `UVM` |
 | [OV7670_CAM](https://github.com/dlftls002/OV7670_CAM)| OV7670 Camera Sensor Interface & Video Control Logic |`SystemVerilog` `OV7670` `Camera`|
 | [VGA_SW_ColorBar_Img_Upscale](https://github.com/dlftls002/VGA_SW_ColorBar_Img_Upscale)| VGA Display Controller, ColorBar Generator & Image Upscaling |`SystemVerilog` `VGA` `Image Upscaling` |
+[Monitor-drowsy-driving](https://github.com/dlftls002/Monitor-drowsy-driving)| Real-Time On-Device AI Drowsy Driving Monitoring & LLM Voice Assistant |`YOLO` `MobileNetV3` `Whisper` `Ollama` `Jetson Nano`|
 | [SPI_I2C_UVM](https://github.com/dlftls002/SPI_I2C_UVM)| SPI & I2C Peripherals IP Design & UVM Verification Environment |`SystemVerilog` `UVM` `SPI` `I2C` `Verification`|
 | [RISC_V_RV32I_multi_cycle_APB_BUS](https://github.com/dlftls002/RISC-V_RV32I_multi_cycle_APB_BUS)| RISC-V (RV32I) Multi-Cycle Processor Core with APB Bus Interconnect |`SystemVerilog` `RISC-V` `APB Bus` `GPIO` `FND` `UART` |
 | [RISC-V_RV32I_single_cycle](https://github.com/dlftls002/RISC-V_RV32I_single_cycle)| RISC-V (RV32I) Single-Cycle CPU Core RTL Implementation |`SystemVerilog` `RISC-V` `CPU Design`|
