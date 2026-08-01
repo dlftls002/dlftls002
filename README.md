@@ -90,7 +90,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=dlftls002&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats-one-khaki-jm2gx7phnu.vercel.app/api/top-langs/?username=dlftls002&layout=compact&theme=default&hide=html,tex,batchfile" height="150" />
 </div>
 
 ---
