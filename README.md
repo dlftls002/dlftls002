@@ -41,6 +41,7 @@
 
 | 프로젝트 | 설명 | 사용 기술 |
 | :--- | :--- | :--- |
+| [AIGIS](https://github.com/dlftls002/A.I.G.I.S) |  서버실 통합 관제 시스템 | `SystemVerilog` `UVM` `FACE ID` `AES_128_GCM` |
 | [MATS](https://github.com/dlftls002/MATS) | 색상 기반 실시간 안티드론 시스템 | `SystemVerilog` `OV7670` `UVM` |
 | [SPI_I2C_UVM](https://github.com/dlftls002/SPI_I2C_UVM) | SPI & I2C 설계, AXI4-Lite 연동 및 UVM 검증 환경 구축 | `SystemVerilog` `UVM` `AXI4-Lite` |
 | [RISC_V_RV32I_multi_cycle_APB_BUS](https://github.com/dlftls002/RISC-V_RV32I_multi_cycle_APB_BUS) | RISC-V (RV32I) 멀티사이클 설계 및 APB 버스 통합 | `SystemVerilog` `RISC-V` `APB Bus` `GPIO` `FND` `UART` |
