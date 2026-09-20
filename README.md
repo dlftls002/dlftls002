@@ -43,7 +43,8 @@
 | :--- | :--- | :--- |
 | [AIGIS](https://github.com/dlftls002/A.I.G.I.S) |  서버실 통합 관제 시스템 | `SystemVerilog` `UVM` `FACE ID` `AES_128_GCM` |
 | [MATS](https://github.com/dlftls002/MATS) | 색상 기반 실시간 안티드론 시스템 | `SystemVerilog` `OV7670` `UVM` |
-| [SPI_I2C_UVM](https://github.com/dlftls002/SPI_I2C_UVM) | SPI & I2C 설계, AXI4-Lite 연동 및 UVM 검증 환경 구축 | `SystemVerilog` `UVM` `AXI4-Lite` |
+| [MicroBlaze_AXI4_Lite](https://github.com/dlftls002/MicroBlaze_AXI4_Lite) | MicroBlaze 기반 AXI4-Lite 슬레이브 IP 패키징, Vitis C 드라이버(HAL) 및 SoC 통합 검증 | `MicroBlaze` `AXI4-Lite` `Vitis (C)` `SystemVerilog` `UVM` |
+| [SPI_I2C_UVM](https://github.com/dlftls002/SPI_I2C_UVM) | SPI & I2C RTL 설계 및 UVM 검증 환경 구축 | `SystemVerilog` `UVM` `SPI` `I2C` |
 | [RISC_V_RV32I_multi_cycle_APB_BUS](https://github.com/dlftls002/RISC-V_RV32I_multi_cycle_APB_BUS) | RISC-V (RV32I) 멀티사이클 설계 및 APB 버스 통합 | `SystemVerilog` `RISC-V` `APB Bus` `GPIO` `FND` `UART` |
 | [RISC-V_RV32I_single_cycle](https://github.com/dlftls002/RISC-V_RV32I_single_cycle) | RISC-V (RV32I) 싱글사이클 CPU 코어 RTL 설계 | `SystemVerilog` `RISC-V` |
 | [OV7670_CAM](https://github.com/dlftls002/OV7670_CAM) | OV7670 카메라 센서 인터페이스 및 비디오 제어 로직 설계 | `SystemVerilog` `OV7670` `Camera I/F` |
