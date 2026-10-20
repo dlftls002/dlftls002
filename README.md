@@ -61,12 +61,6 @@
 
 ---
 
-### 📫 연락처 (Contact)
-- 📧 이메일(naver) : [dlftls002@naver.com](mailto:dlftls002@naver.com)
-- 📧 이메일(gmail) : [dlftls002@gmail.com](mailto:dlftls002@gmail.com)
-
----
-
 <div align="center">
   <h3>방문해 주셔서 감사합니다 👋</h3>
 </div>
